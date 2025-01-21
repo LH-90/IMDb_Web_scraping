@@ -38,11 +38,6 @@ The script will generate a CSV file named "Top_votes_movies.csv" containing the 
 
 Now we have collected information on movies, we'll answer some questions: open the file named "IMDb_analysis.ipynb" and follow the steps.
 
-## Contribution
-
-This project was realised during a course at TechTalent Academy.
-Contributions are welcome and encouraged! If you find any bugs, have feature requests, or want to improve the project, feel free to open an issue or submit a pull request. 
-
 ## Source 
 
 http://www.imdb.com/search/title?sort=num_votes,desc&start=1&title_type=feature&year=1950,2012
